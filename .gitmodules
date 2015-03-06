@@ -1,0 +1,3 @@
+[submodule "openFrameworks/The-God-Article"]
+	path = openFrameworks/The-God-Article
+	url = git@github.com:stefang/The-God-Article.git
