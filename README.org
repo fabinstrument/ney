@@ -1,5 +1,8 @@
 *Augmented Digital Fabricated Ney*
 
-details at:  http://fabinstrument.com/
 
-Install instructions:
+more details at:  http://fabinstrument.com/
+
+* Setup - Install instructions
+- put =The-God-Article= Xcode project from /openframeworks/ folder into /openframeworks/apps/
+- put =SuperCollider_Classes= into SuperCollider =Extensions= folder
