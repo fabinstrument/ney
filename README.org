@@ -1,3 +1,5 @@
 *Augmented Digital Fabricated Ney*
 
 details at:  http://fabinstrument.com/
+
+Install instructions:
